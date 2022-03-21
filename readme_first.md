@@ -1,4 +1,4 @@
-# socket.io-chatapp
+# ShareMyLocation
 Basic app using socket.io,having feature of sharing location, create a room, send message to specific room only.
 
 # Requirments
